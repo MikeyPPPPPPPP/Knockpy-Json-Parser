@@ -13,7 +13,11 @@ Pasres https://github.com/guelfoweb/knock   json output to a list
 ## Returns a list format
 
 site1.com
+
 site.dsd.es.com
+
 ddd.com
+
 sed.com
+
 tlesrl.com
