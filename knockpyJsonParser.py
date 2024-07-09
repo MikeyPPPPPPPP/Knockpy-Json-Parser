@@ -103,7 +103,7 @@ def main():
 		knockpy_file = sys.argv[1]
 		#check if file exists
 		if not os.path.exists(knockpy_file):
-			#scriptHelp(1)
+			scriptHelp(1)
 			sys.exit(0)
 
 		# status codes specified
