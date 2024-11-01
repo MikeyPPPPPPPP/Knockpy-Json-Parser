@@ -12,7 +12,7 @@ class fileParser:
 			super().__init__(self.message)
 
 
-	def __init__(self, inFile: str, status_codes: str = None) -> None:
+	def __init__(self, inFile: str, status_codes: str = None):
 		self.inFile: str = inFile
 		self.status_codes: str = status_codes
 		self.domains: list[str] = []
